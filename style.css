@@ -20,7 +20,7 @@ p{
 }
 .left-center{
     width: 600px;
-    height: 290px;
+    /* height: 290px; */
     border: 1px solid black;
 }
 .right-center{
@@ -40,4 +40,39 @@ button{
 button:hover{
     background-color: white;
     color: cadetblue;
+}
+.h11{
+    margin: 10px 0px -20px 30px ;
+}
+.add-user{
+    display: none;
+}
+input{
+    width: 550px;
+    height: 25px;
+    margin: 10px 0px 0px 20px;
+
+
+}
+h2{
+    text-align: center;
+}
+.btn5{
+   margin-left: 150px;
+}
+
+.btn6{
+    margin-left: 150px;
+ }
+ .btn7{
+    margin-left: 150px;
+ }
+.user{
+    display: none;
+}
+.del-user{
+    display: none;
+}
+.login{
+    display: none;
 }
