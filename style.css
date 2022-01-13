@@ -1,0 +1,43 @@
+.header{
+    width: 1200px;
+    height: 70px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 50px;
+    
+}
+p{
+    padding: 25px;
+}
+
+.center{
+    width: 1340px;
+    height: 300px;
+    border: 1px solid black;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.left-center{
+    width: 600px;
+    height: 290px;
+    border: 1px solid black;
+}
+.right-center{
+    width: 400px;
+    height: 290px;
+    border: 1px solid black;
+}
+button{
+    width: 300px;
+    height: 30px;
+    display: block;
+    margin: 30px 0px 0px 50px;
+    cursor: pointer;
+    background-color:cadetblue;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: cadetblue;
+}
